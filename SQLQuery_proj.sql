@@ -1,3 +1,11 @@
+/*
+Covid 19 Data Exploration year 2021
+
+*/
+
+
+
+
 select * from covid_19_india
 
 select * from covid_vaccine_statewise
