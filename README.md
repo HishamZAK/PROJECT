@@ -1,4 +1,4 @@
-# PROJECT
+# SQL PROJECT
 
 Got the data from this kaggle account 
 'https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india'
